@@ -203,8 +203,9 @@ The first static map was created by mapping census tracts by income and excludin
     <h1>Lot to Life: From Cars to Culture</h1>
     <p>By: Adrian Ponichtera</p>
     </header>
-<embed src="file:///C:/Users/jegoa/Downloads/Ponichtera_LotToLife_FinalPresentation_Portfolio-1.pdf" width="500" height="375" 
+<p><embed src="Ponichtera_LotToLife_FinalPresentation_Portfolio.pdf" width="500" height="375" 
  type="application/pdf">  
+</p>
 <header>
     <h1>A Framework for Community Benefit Agreements</h1>
     <p>By: Rutgers Bloustein Fall 2025 Studio Class</p>
