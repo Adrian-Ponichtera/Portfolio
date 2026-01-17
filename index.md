@@ -88,6 +88,7 @@
       <li>Command Line GIS - Grocery Store Prices in Union County</li>
       <li>Graphic Communication and Design Representation - Lot to Life</li>
       <li>Studio Fall 2025 - A Framework for Community Benefit Agreements</li>
+    </ul>
     </p>
   </header>
       <div>
