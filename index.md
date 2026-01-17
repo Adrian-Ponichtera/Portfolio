@@ -1,4 +1,4 @@
-## Grocery Store Prices - Adrian Ponichtera
+## Portfolio - Adrian Ponichtera
 
 <head>
   <meta charset="UTF-8" />
@@ -81,14 +81,17 @@
     }
   </style>
 </head>
+<body>
 <header>
     <h1>Projects</h1>
     <p><ul>
       <li>Command Line GIS - Grocery Store Prices in Union County</li>
       <li>Graphic Communication and Design Representation - Lot to Life</li>
+      <li>Studio Fall 2025 - A Framework for Community Benefit Agreements</li>
     </p>
   </header>
-<body> 
+      <div>
+      </div>
   <header>
     <h1>Grocery Store Prices in Union County</h1>
     <p>By: Adrian Ponichtera</p>
@@ -200,7 +203,17 @@ The first static map was created by mapping census tracts by income and excludin
     <header>
     <h1>Lot to Life: From Cars to Culture</h1>
     <p>By: Adrian Ponichtera</p>
-    <iframe 
+    </header>
+    <object 
+    data="https://raw.githubusercontent.com/Ponichtera_LotToLife_FinalPresentation_Portfolio.pdf" 
+    type="application/pdf"
+    width="100%" 
+    height="800px">
+    <p>Your browser does not support PDFs. 
+       <a href="https://raw.githubusercontent.com/Ponichtera_LotToLife_FinalPresentation_Portfolio.pdf">Download the PDF</a>.
+    </p>
+</object>
+      <iframe 
     src="https://raw.githubusercontent.com/Ponichtera_LotToLife_FinalPresentation_Portfolio.pdf"
     width="100%" 
     height="800px"
@@ -209,7 +222,8 @@ The first static map was created by mapping census tracts by income and excludin
 <header>
     <h1>A Framework for Community Benefit Agreements</h1>
     <p>By: Rutgers Bloustein Fall 2025 Studio Class</p>
-  </main>
+</header>
   <p><a href="https://arcg.is/WavK12">Link to Studio class StoryMaps.</a></p>
+ </main>
 </body>
 </html>
