@@ -81,7 +81,14 @@
     }
   </style>
 </head>
-<body>
+<header>
+    <h1>Projects</h1>
+    <p><ul>
+      <li>Command Line GIS - Grocery Store Prices in Union County</li>
+      <li>Graphic Communication and Design Representation - Lot to Life</li>
+    </p>
+  </header>
+<body> 
   <header>
     <h1>Grocery Store Prices in Union County</h1>
     <p>By: Adrian Ponichtera</p>
@@ -190,6 +197,19 @@ The first static map was created by mapping census tracts by income and excludin
   </table>
       </div>
     </section>
+    <header>
+    <h1>Lot to Life: From Cars to Culture</h1>
+    <p>By: Adrian Ponichtera</p>
+    <iframe 
+    src="https://raw.githubusercontent.com/Ponichtera_LotToLife_FinalPresentation_Portfolio.pdf"
+    width="100%" 
+    height="800px"
+    style="border:none;">
+</iframe>
+<header>
+    <h1>A Framework for Community Benefit Agreements</h1>
+    <p>By: Rutgers Bloustein Fall 2025 Studio Class</p>
   </main>
+  <p><a href="https://arcg.is/WavK12">Link to Studio class StoryMaps.</a></p>
 </body>
 </html>
