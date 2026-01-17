@@ -203,7 +203,7 @@ The first static map was created by mapping census tracts by income and excludin
     <h1>Lot to Life: From Cars to Culture</h1>
     <p>By: Adrian Ponichtera</p>
     </header>
-<p><embed src="Ponichtera_LotToLife_FinalPresentation_Portfolio.pdf" width="500" height="375" 
+<p><embed src="Ponichtera_LotToLife_FinalPresentation_Portfolio.pdf" width="800" height="575" 
  type="application/pdf">  
 </p>
 <header>
